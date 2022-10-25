@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Psychscript a simple person and soon to become a software engineer someday in God's Will.
+- 👋 Hi, I’m @Psychscript a simple person inside-out.
 - 👀 I’m interested in coding and seeking for truth
-- 🌱 I’m currently learning to become better in programming and ethical hacking
-- 💞️ I’m looking to collaborate on you my fellow co-programmers to enhance my skills and knowledge
+- 🌱 I’m currently learning to become better in programming and cybersecurity
+- 💞️ I’m looking for collaboration with you my fellow co-programmers to enhance my skills and knowledge
 - 📫 Email: phhunter0@gmail.com
 
 <!---
